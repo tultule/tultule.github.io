@@ -1,0 +1,18 @@
+body{
+	/*padding: 8% 30% 0 30%;*/
+	/*font-family: 'chandrabatiOMJ';*/
+	/*font-size: 20px;*/
+	font-size: 15px;
+}
+
+.story_meta{
+	padding: 5% 40% 0 10%;
+	line-height: 1.5;
+}
+
+.story_bn p {
+	padding: 0% 0% 0 10%;
+	line-height: 1.5;
+	white-space: pre;
+}
+

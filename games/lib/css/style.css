@@ -1,0 +1,45 @@
+/*@font-face {
+  font-family: "Miama";
+  src: url("../font/2.ttf");
+}
+
+p{
+    font-family: 'chandrabatiOMJ';   
+    font-family: 'Miama';   
+}*/
+
+
+a{
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+}
+
+body{
+/*    text-align: center;*/
+/*    list-style-position: inside;*/
+}
+
+
+
+.menu{
+    padding: 3% 30% 0% 38%;
+}
+
+.headLine{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+.menuList{
+/*    padding-left: 20%;*/
+    line-height: 1.8;
+    word-spacing: normal;
+    letter-spacing: normal;
+}
+
+.intro{
+    padding: 3% 18% 0% 15%;
+    text-indent: 200px;
+    line-height: 1.5;
+}

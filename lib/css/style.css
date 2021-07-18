@@ -1,0 +1,10 @@
+body {
+	font-family: Verdana, Roboto, Open Sans;
+	font-size: 12px;
+    background-color: black;
+    color: white;
+}
+
+.center {
+	text-align: center;
+}

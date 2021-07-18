@@ -1,0 +1,13 @@
+body{
+	display: flex;
+}
+
+div{
+	padding: 5% 5% 0 5%;
+/*	border: 1px solid black;*/
+	margin-left: 5px;
+}
+
+.story_bn{
+	font-size: 14px;
+}
