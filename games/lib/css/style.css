@@ -20,7 +20,14 @@ body{
 /*    list-style-position: inside;*/
 }
 
+.bgBlack{
+    background-color: black;
+    color: white;
+}
 
+.center {
+	text-align: center;
+}
 
 .menu{
     padding: 3% 30% 0% 38%;
@@ -28,7 +35,7 @@ body{
 
 .headLine{
     font-size: 20px;
-    font-style: oblique;
+/*    font-style: oblique;*/
 }
 
 .menuList{
@@ -39,7 +46,8 @@ body{
 }
 
 .intro{
-    padding: 3% 18% 0% 15%;
-    text-indent: 200px;
+/*    padding: 3% 18% 0% 15%;*/
+    padding: 5% 18% 0% 15%;
+    text-indent: 50px;
     line-height: 1.5;
 }
